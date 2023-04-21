@@ -1,4 +1,4 @@
-# Contact Number Driven Virus Evolution
+# Contact-number-driven virus evolution
 
 Scripts for the manuscript entitled "
 Contact-number-driven virus evolution: a multi-level modeling framework for the evolution of acute or persistent RNA virus infection."
