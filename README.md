@@ -8,7 +8,7 @@ Please construct a new environment to ensure all packages required are installed
 `conda env create --file virus_evolution.yaml`
 
 To run the script,<br>
-`sh virus_evolution`
+`sh virus_evolution.sh`
 
 Also, check out `demo.ipynb` to see the figures in the paper.
 
